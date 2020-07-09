@@ -1,3 +1,6 @@
+Robofriends is a totally responsive app that demonstrates how to use a random robot generator and the JSON Placeholder API to generate cards with random robot pictures and ID information that is stored in arrays in the robots.js file.  When letters are typed into the searchbox the information iterates through the ID information and reduces the list based on what letters are typed in the box.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
