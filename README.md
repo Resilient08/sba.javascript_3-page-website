@@ -1,13 +1,15 @@
-Robofriends is a totally responsive app that demonstrates how to use a random robot photo generator on robohash.org and the JSON Placeholder API to generate cards with random robot pictures and ID information that is stored in arrays in the robots.js file.  When letters are typed into the searchbox the information iterates through the ID information and reduces the list based on what letters are typed in the box.
+* This application is hosted [here](https://resilient08.github.io/sba.javascript_3-page-website/)
 
-HTML - A dropdown menu was added to index.html with 3 useful links realated to the Robofriends project via syling from button.css.
+* Robofriends is a totally responsive app that demonstrates how to use a random robot photo generator on robohash.org and the JSON Placeholder API to generate cards with random robot pictures and ID information that is stored in arrays in the robots.js file.  When letters are typed into the searchbox the information iterates through the ID information and reduces the list based on what letters are typed in the box.
 
-CSS - CSS files were used for general app styling via index.css and also to import and style fonts.  Tachyons were imported into react to incorporate more inline styling.
+* HTML - A dropdown menu was added to index.html with 3 useful links realated to the Robofriends project via syling from button.css.
 
-Javascript - Javascript/JSX were primarily used in this project.  Variables, Arrays, functions, fetch/callback, etc were all incorporated to call/access information and iterate through the cards to locate specific cards based on what is typed in the searchbox.  The Robohash.org API and the JSONPlaceholder API were both used to import photos and card ID information into the app.
+* CSS - CSS files were used for general app styling via index.css and also to import and style fonts.  Tachyons were imported into react to incorporate more inline styling.
+
+* Javascript - Javascript/JSX were primarily used in this project.  Variables, Arrays, functions, fetch/callback, etc were all incorporated to call/access information and iterate through the cards to locate specific cards based on what is typed in the searchbox.  The Robohash.org API and the JSONPlaceholder API were both used to import photos and card ID information into the app.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
